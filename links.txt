@@ -1,0 +1,10 @@
+https://www.kaggle.com/chaudaryfarhan
+
+day1 :
+https://www.kaggle.com/code/chaudaryfarhan/day-1a-from-prompt-to-action
+
+day2:
+https://www.kaggle.com/code/chaudaryfarhan/day-2b-agent-tools-best-practices
+
+day 3 
+https://www.kaggle.com/code/chaudaryfarhan/day-3a-agent-sessions
