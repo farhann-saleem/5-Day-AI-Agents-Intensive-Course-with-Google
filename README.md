@@ -84,6 +84,42 @@ Explore advanced state management:
 
 ---
 
+### 🔍 [Day 4: Agent Observability](./Day-4)
+
+**Monitor, debug, and optimize your AI agents**
+
+Master production monitoring:
+- Comprehensive logging systems
+- Performance monitoring and metrics
+- Distributed tracing
+- Debugging workflows
+- Cost tracking and optimization
+- Alerting and incident response
+
+**📓 Notebook**: [`day-4a-agent-observability.ipynb`](./Day-4/day-4a-agent-observability.ipynb)
+
+**⏱️ Duration**: ~2.5 hours
+
+---
+
+### 🤝 [Day 5: Agent-to-Agent Communication](./Day-5)
+
+**Build multi-agent systems and collaborative workflows**
+
+Create sophisticated agent networks:
+- Multi-agent architecture patterns
+- Inter-agent communication protocols
+- Agent orchestration strategies
+- Task delegation and specialization
+- Conflict resolution mechanisms
+- Collaborative workflow design
+
+**📓 Notebook**: [`day-5a-agent2agent-communication.ipynb`](./Day-5/day-5a-agent2agent-communication.ipynb)
+
+**⏱️ Duration**: ~3 hours
+
+---
+
 ## 🚀 Technologies & Tools
 
 | Technology | Purpose | Documentation |
@@ -93,6 +129,7 @@ Explore advanced state management:
 | **Model Context Protocol** | Tool Integration Standard | [MCP Docs](https://modelcontextprotocol.io/) |
 | **Python 3.8+** | Programming Language | [Python.org](https://www.python.org/) |
 | **Jupyter Notebooks** | Interactive Development | [Jupyter](https://jupyter.org/) |
+| **OpenTelemetry** | Observability Framework | [OpenTelemetry](https://opentelemetry.io/) |
 
 ---
 
@@ -179,6 +216,36 @@ jupyter notebook
 
 </details>
 
+<details>
+<summary><b>Day 4: Observability</b></summary>
+
+- Introduction to Agent Observability
+- Structured Logging Best Practices
+- Performance Metrics Collection
+- Distributed Tracing Implementation
+- Debugging Techniques and Tools
+- Cost Monitoring and Optimization
+- Alerting and Incident Response
+- Production Monitoring Dashboards
+- Practical Exercise: Monitoring Framework
+
+</details>
+
+<details>
+<summary><b>Day 5: Multi-Agent Systems</b></summary>
+
+- Multi-Agent Architecture Patterns
+- Inter-Agent Communication Protocols
+- Agent Orchestration Strategies
+- Task Delegation and Routing
+- Conflict Resolution Mechanisms
+- Collaborative Workflow Design
+- Load Balancing and Optimization
+- Production Multi-Agent Deployment
+- Practical Exercise: Agent Team System
+
+</details>
+
 ---
 
 ## 🎓 Learning Outcomes
@@ -189,6 +256,8 @@ By completing this course, you will be able to:
 ✅ Integrate external tools using MCP  
 ✅ Handle complex, long-running workflows  
 ✅ Manage agent state and memory effectively  
+✅ Monitor and debug agents in production  
+✅ Build multi-agent collaborative systems  
 ✅ Deploy agents with proper error handling  
 ✅ Optimize agent performance and costs  
 ✅ Follow industry best practices  
@@ -201,11 +270,13 @@ By completing this course, you will be able to:
 - [Google ADK Documentation](https://google.github.io/adk-docs/)
 - [Gemini API Reference](https://ai.google.dev/gemini-api/docs)
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/)
+- [OpenTelemetry Documentation](https://opentelemetry.io/docs/)
 
 ### Community & Support
 - [Kaggle Discussion Forum](https://www.kaggle.com/discussions)
 - [Google AI Community](https://developers.google.com/community)
 - [MCP GitHub Repository](https://github.com/modelcontextprotocol)
+- [AI Agents Community](https://discord.gg/ai-agents)
 
 ### Related Courses
 - [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
