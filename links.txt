@@ -11,3 +11,6 @@ https://www.kaggle.com/code/chaudaryfarhan/day-3a-agent-sessions
 
 day 4:
 https://www.kaggle.com/code/chaudaryfarhan/day-4a-agent-observability
+
+day 5:
+https://www.kaggle.com/code/chaudaryfarhan/day-5a-agent2agent-communication
